@@ -1,1 +1,1 @@
-I am learning how to navigate the shell is awesome
+create and setup your Git and GitHub account
