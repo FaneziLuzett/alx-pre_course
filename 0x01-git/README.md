@@ -1,1 +1,1 @@
-create and setup your Git and GitHub account
+my second readme updated
